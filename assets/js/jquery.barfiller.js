@@ -14,7 +14,7 @@
     $.fn.barfiller = function (options) {
 
         var defaults = $.extend({
-            barColor: '#09CC7F',
+            barColor: '#09cc7f',
             tooltip: true,
             duration: 1000,
             animateOnResize: true,

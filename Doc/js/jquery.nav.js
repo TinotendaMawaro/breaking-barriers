@@ -1,8 +1,6 @@
 /**
- * Single Page Nav Plugin
- * Copyright (c) 2014 Chris Wojcik <hello@chriswojcik.net>
- * Dual licensed under MIT and GPL.
- * @author Chris Wojcik
+ 
+ * @author Tinotenda Mawaro
  * @version 1.2.0
  */
 

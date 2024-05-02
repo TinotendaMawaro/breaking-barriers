@@ -1,0 +1,22 @@
+{
+    "name": "Breaking Barriers",
+    "short_name": "Breaking Barriers",
+    "description": "breaking Barriers - Empowering individuals to overcome obstacles and achieve success.Now based in Harare, Zimbabwe, Breaking Barriers Disability Service has evolved into a values-driven organization that provides a comprehensive range of services ,supporting individuals with disabilities and the elderly.",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "icons": [
+      {
+        "src": "icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  

@@ -1,2 +1,4 @@
 # breaking-barriers
-breaking-bariers.co.zw
+breaking-barriers.co.zw
+NGO
+Disability services
